@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=font-thumbnail
+Exec=font-thumbnail -s %s -o %o -u %u %i
+MimeType=font/woff;font/otf;font/ttf;application/x-font-type1;application/x-font-bdf;application/x-font-pcf;
